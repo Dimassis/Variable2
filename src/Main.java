@@ -34,7 +34,7 @@ public class Main {
         float result = (float) (sumSheets / sumPupil);
         System.out.println("На каждого ученика рассчитано " + result + " листов бумаги.");
 
-        // exercise 4
+        // exercise 4 
         System.out.println();
         byte productivity = 16 / 2; // продуктивность в 1 минуту
         short twentyMin = (short) (productivity * 20);
